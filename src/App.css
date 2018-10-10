@@ -1,0 +1,64 @@
+body {
+  background: url(../src/img/trafik_1.jpg) no-repeat fixed center center / cover transparent;
+   
+  font-family: 'Lato',sans-serif;
+}
+.main {
+  width: 80%;
+  color: #fff;
+  position: absolute;
+  top:  50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.main button {
+  color: #fff;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 8px;
+}
+.row{
+  margin-top: 20px;
+}
+.google-form{
+   border: 1px solid white;
+   padding: 10px;
+   background: rgb(224, 244, 253);
+   height: 600px;
+   width: 100%;
+   font-family: 'Poppins', sans-serif;
+ }
+ 
+ .history-btn{
+   border-radius: 35px;
+ }
+ .history-button{
+  text-align: center;
+  margin-top: 10px;
+ }
+ .back-button{
+    text-align: center;
+ }
+ .newsletter{
+   margin-top: 140px;
+ }
+ .newsletter-text{
+    text-align: center;
+ }
+ .newsletter-btn{
+   border-radius: 35px;
+ }
+ .newsletter-button{
+   text-align: center;
+ }
+ /* .fullscreen {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0; */
+  /* extra fullscreen guarantees - you might not need the rest */
+  /* position: relative;
+  top: 0;
+  left: 0;
+} */
+
